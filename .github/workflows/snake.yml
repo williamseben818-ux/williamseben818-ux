@@ -1,4 +1,4 @@
-name: Snake Animation
+name: Seasonal Snake Animation
 
 on:
   schedule:
@@ -8,17 +8,24 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
 
-      - name: Generate Snake
+      # Birthday Snake (December)
+      - name: Generate Birthday Snake
+        if: ${{ format('%m', github.event.schedule) == '12' }}
         uses: Platane/snk@master
         with:
           github_user_name: williamseben818-ux
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: output/snake-birthday.svg
+          snake_color: "#FFD700,#FF69B4,#00FFFF"   # gold, pink, cyan
+          background: "url(https://raw.githubusercontent.com/Platane/snk/main/examples/fireworks-bg.svg)"
+          speed: 5
 
-      - name: Commit Snake
+      - name: Commit Snakes
         uses: EndBug/add-and-commit@v7
         with:
-          add: "dist/github-contribution-grid-snake.svg"
-          message: "Update snake animation"
+          add: "output/*.svg"
+          message: "Update seasonal snake animations"
