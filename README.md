@@ -65,3 +65,20 @@ Always learning, always securing
 ## 🐍 Contribution Snake
 ### 🎂 Birthday Snake (December 19)
 ![Snake animation Birthday](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-birthday.svg)
+### Seasonal Snakes
+- 🎄 Christmas Snake  
+![Snake animation Christmas](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-christmas.svg)
+
+- 🎃 Halloween Snake  
+![Snake animation Halloween](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-halloween.svg)
+
+- 🌸 Spring Snake  
+![Snake animation Spring](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-spring.svg)
+
+- ☀️ Summer Snake  
+![Snake animation Summer](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-summer.svg)
+
+- 🍂 Autumn Snake  
+![Snake animation Autumn](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-autumn.svg)
+### 🎄 Christmas Snake
+![Snake animation Christmas](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-christmas.svg)
