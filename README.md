@@ -21,8 +21,13 @@ Always learning, always securing
 - `soc-monitoring-lab` – Splunk-based log analysis and threat detection
 - `bug-bounty-reports` – Redacted write-ups from HackerOne/Bugcrowd
 
----
+--## 📊 GitHub Stats
 
+![Ebenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamseben818-ux&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamseben818-ux&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williamseben818-ux&theme=tokyonight)
 ## 📫 Connect With Me
 - 📧 [Email](mailto:itotojesuebenezer@yahoo.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/itotojesu-ebenezer-b6a887397)
