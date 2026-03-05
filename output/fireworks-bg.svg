@@ -1,35 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
-  <rect width="100%" height="100%" fill="#1a1a1a"/>
+  <rect width="100%" height="100%" fill="#0d1117"/>
 
-  <!-- Falling confetti -->
-  <circle cx="100" cy="0" r="5" fill="#FFD700">
-    <animate attributeName="cy" from="0" to="400" dur="5s" repeatCount="indefinite"/>
+  <!-- Neon glow circles -->
+  <circle cx="150" cy="100" r="10" fill="#00FFFF" opacity="0.6">
+    <animate attributeName="r" values="10;20;10" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="200" cy="0" r="6" fill="#FF69B4">
-    <animate attributeName="cy" from="0" to="400" dur="6s" repeatCount="indefinite"/>
+  <circle cx="400" cy="200" r="8" fill="#FF00FF" opacity="0.6">
+    <animate attributeName="r" values="8;16;8" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="300" cy="0" r="4" fill="#00FFFF">
-    <animate attributeName="cy" from="0" to="400" dur="4s" repeatCount="indefinite"/>
+  <circle cx="650" cy="300" r="12" fill="#39FF14" opacity="0.6">
+    <animate attributeName="r" values="12;24;12" dur="4s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Firework burst -->
-  <line x1="700" y1="200" x2="700" y2="200" stroke="#FF0000" stroke-width="2">
-    <animate attributeName="x2" from="700" to="750" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="y2" from="200" to="150" dur="2s" repeatCount="indefinite"/>
-  </line>
-  <line x1="700" y1="200" x2="700" y2="200" stroke="#00FF00" stroke-width="2">
-    <animate attributeName="x2" from="700" to="650" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="y2" from="200" to="250" dur="2s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- Rotating star -->
-  <polygon points="400,50 410,70 390,70" fill="#FFD700">
+  <!-- Rotating neon star -->
+  <polygon points="500,50 510,70 490,70" fill="#9400D3" opacity="0.8">
     <animateTransform attributeName="transform" attributeType="XML"
-      type="rotate" from="0 400 60" to="360 400 60" dur="5s" repeatCount="indefinite"/>
+      type="rotate" from="0 500 60" to="360 500 60" dur="6s" repeatCount="indefinite"/>
   </polygon>
-
-  <!-- Twinkling sparkle -->
-  <circle cx="500" cy="100" r="3" fill="#FFFFFF">
-    <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
-  </circle>
 </svg>
