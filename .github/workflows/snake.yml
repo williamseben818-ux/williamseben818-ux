@@ -29,3 +29,12 @@ jobs:
         with:
           add: "output/*.svg"
           message: "Update seasonal snake animations"
+- name: Generate Birthday Snake
+  if: ${{ format('%m', github.event.schedule) == '12' }}
+  uses: Platane/snk@master
+  with:
+    github_user_name: williamseben818-ux
+    outputs: output/snake-birthday.svg
+    snake_color: "#FFD700,#FF69B4,#00FFFF"   # gold, pink, cyan
+    background: "output/fireworks-bg.svg"    # custom background
+    speed: 5
