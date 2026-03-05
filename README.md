@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Ebenezer Itotojesu
 
-<!--
-**williamseben818-ux/williamseben818-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Entry-Level Cybersecurity Professional | SOC Analyst | Bug Bounty Researcher**
 
-Here are some ideas to get you started:
+Always learning, always securing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+- SOC Monitoring, Incident Response, Penetration Testing
+- Kali Linux, Splunk, Metasploit, Burp Suite, Wireshark
+
+---
+
+## 🚀 Projects
+- `password-strength-checker` – Python tool to evaluate password entropy
+- `soc-monitoring-lab` – Splunk-based log analysis and threat detection
+- `bug-bounty-reports` – Redacted write-ups from HackerOne/Bugcrowd
+
+---
+
+## 📫 Connect With Me
+- 📧 [Email](mailto:itotojesuebenezer@yahoo.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/itotojesu-ebenezer-b6a887397)
+- 🛡️ [GitHub](https://github.com/williamseben818-ux)
+
+---
+⭐️ *Always learning, always securing.*
