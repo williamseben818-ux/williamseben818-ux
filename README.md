@@ -65,3 +65,5 @@ Always learning, always securing
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/github-contribution-grid-snake.svg)
+### 🎂 Birthday Snake (December 19)
+![Snake animation Birthday](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-birthday.svg)
