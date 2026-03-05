@@ -12,29 +12,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v2
-
-      # Birthday Snake (December)
-      - name: Generate Birthday Snake
-        if: ${{ format('%m', github.event.schedule) == '12' }}
-        uses: Platane/snk@master
-        with:
-          github_user_name: williamseben818-ux
-          outputs: output/snake-birthday.svg
-          snake_color: "#FFD700,#FF69B4,#00FFFF"   # gold, pink, cyan
-          background: "url(https://raw.githubusercontent.com/Platane/snk/main/examples/fireworks-bg.svg)"
-          speed: 5
-
-      - name: Commit Snakes
-        uses: EndBug/add-and-commit@v7
-        with:
-          add: "output/*.svg"
-          message: "Update seasonal snake animations"
 - name: Generate Birthday Snake
   if: ${{ format('%m', github.event.schedule) == '12' }}
   uses: Platane/snk@master
   with:
     github_user_name: williamseben818-ux
     outputs: output/snake-birthday.svg
-    snake_color: "#FFD700,#FF69B4,#00FFFF"   # gold, pink, cyan
-    background: "output/fireworks-bg.svg"    # animated background with stars
+    snake_color: "#00FFFF,#FF00FF,#39FF14,#9400D3"   # neon palette
+    background: "output/fireworks-bg.svg"            # glowing background
     speed: 5
