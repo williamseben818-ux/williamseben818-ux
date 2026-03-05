@@ -40,3 +40,12 @@ jobs:
     snake_color: "#FF8C00,#000000,#800080"
     background: "output/halloween-bg.svg"
     speed: 4
+- name: Generate Christmas Snake
+  if: ${{ format('%m', github.event.schedule) == '12' }}
+  uses: Platane/snk@master
+  with:
+    github_user_name: williamseben818-ux
+    outputs: output/snake-christmas.svg
+    snake_color: "#FF0000,#008000,#FFD700"   # red, green, gold
+    background: "output/christmas-bg.svg"
+    speed: 4
