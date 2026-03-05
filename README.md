@@ -97,3 +97,5 @@ Always learning, always securing
 
 - 🍂 Autumn Snake  
 ![Snake animation Autumn](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-autumn.svg)
+### 🎄 Christmas Snake
+![Snake animation Christmas](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-christmas.svg)
