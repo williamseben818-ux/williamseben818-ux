@@ -11,50 +11,48 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
-- name: Generate Birthday Snake
-  if: ${{ format('%m', github.event.schedule) == '12' }}
-  uses: Platane/snk@master
-  with:
-    github_user_name: williamseben818-ux
-    outputs: output/snake-birthday.svg
-    snake_color: "#00FFFF,#FF00FF,#39FF14,#9400D3"   # neon palette
-    background: "output/fireworks-bg.svg"            # glowing background
-    speed: 5
-- name: Generate Christmas Snake
-  if: ${{ format('%m', github.event.schedule) == '12' }}
-  uses: Platane/snk@master
-  with:
-    github_user_name: williamseben818-ux
-    outputs: output/snake-christmas.svg
-    snake_color: "#FF0000,#008000,#FFD700"
-    background: "output/christmas-bg.svg"
-    speed: 4
+      name: Generate Snake
 
-- name: Generate Halloween Snake
-  if: ${{ format('%m', github.event.schedule) == '10' }}
-  uses: Platane/snk@master
-  with:
-    github_user_name: williamseben818-ux
-    outputs: output/snake-halloween.svg
-    snake_color: "#FF8C00,#000000,#800080"
-    background: "output/halloween-bg.svg"
-    speed: 4
-- name: Generate Christmas Snake
-  if: ${{ format('%m', github.event.schedule) == '12' }}
-  uses: Platane/snk@master
-  with:
-    github_user_name: williamseben818-ux
-    outputs: output/snake-christmas.svg
-    snake_color: "#FF0000,#008000,#FFD700"   # red, green, gold
-    background: "output/christmas-bg.svg"
-    speed: 4
-- name: Generate Christmas Snake
-  if: ${{ format('%m', github.event.schedule) == '12' }}
-  uses: Platane/snk@master
-  with:
-    github_user_name: williamseben818-ux
-    outputs: output/snake-christmas.svg
-    snake_color: "#FF0000,#008000,#FFD700"   # red, green, gold
-    background: "output/christmas-bg.svg"
-    speed: 4
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Birthday Snake
+        if: ${{ format('%m', github.event.schedule) == '12' }}
+        uses: Platane/snk@v3
+        with:
+          github_user_name: williamseben818-ux
+          outputs: output/snake-birthday.svg
+          snake_color: "#00FFFF,#FF00FF,#39FF14,#9400D3"
+          background: "output/fireworks-bg.svg"
+          speed: 5
+
+      - name: Generate Christmas Snake
+        if: ${{ format('%m', github.event.schedule) == '12' }}
+        uses: Platane/snk@v3
+        with:
+          github_user_name: williamseben818-ux
+          outputs: output/snake-christmas.svg
+          snake_color: "#FF0000,#008000,#FFD700"
+          background: "output/christmas-bg.svg"
+          speed: 4
+
+      - name: Generate Halloween Snake
+        if: ${{ format('%m', github.event.schedule) == '10' }}
+        uses: Platane/snk@v3
+        with:
+          github_user_name: williamseben818-ux
+          outputs: output/snake-halloween.svg
+          snake_color: "#FF8C00,#000000,#800080"
+          background: "output/halloween-bg.svg"
+          speed: 4
