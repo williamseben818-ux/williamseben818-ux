@@ -64,38 +64,12 @@ Always learning, always securing
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## 🐍 Contribution Snake
 ### 🎂 Birthday Snake (December 19)
-![Snake animation Birthday](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-birthday.svg)
-### Seasonal Snakes
-- 🎄 Christmas Snake  
-![Snake animation Christmas](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-christmas.svg)
+### 🐍 Snake Animations
+- Birthday Snake  
+  ![Birthday Snake](output/snake-birthday.svg)
 
-- 🎃 Halloween Snake  
-![Snake animation Halloween](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-halloween.svg)
+- Christmas Snake  
+  ![Christmas Snake](output/snake-christmas.svg)
 
-- 🌸 Spring Snake  
-![Snake animation Spring](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-spring.svg)
-
-- ☀️ Summer Snake  
-![Snake animation Summer](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-summer.svg)
-
-- 🍂 Autumn Snake  
-![Snake animation Autumn](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-autumn.svg)
-### 🎄 Christmas Snake
-![Snake animation Christmas](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-christmas.svg)
-### Seasonal Snakes
-- 🎄 Christmas Snake  
-![Snake animation Christmas](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-christmas.svg)
-
-- 🎃 Halloween Snake  
-![Snake animation Halloween](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-halloween.svg)
-
-- 🌸 Spring Snake  
-![Snake animation Spring](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-spring.svg)
-
-- ☀️ Summer Snake  
-![Snake animation Summer](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-summer.svg)
-
-- 🍂 Autumn Snake  
-![Snake animation Autumn](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-autumn.svg)
-### 🎄 Christmas Snake
-![Snake animation Christmas](https://github.com/williamseben818-ux/williamseben818-ux/blob/output/snake-christmas.svg)
+- Halloween Snake  
+  ![Halloween Snake](output/snake-halloween.svg)
