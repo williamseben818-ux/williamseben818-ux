@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ebenezer Itotojesu  
 🔐 Entry-Level Cybersecurity Professional | SOC Analyst | Bug Bounty Researcher  
 
+![Workflow Status](https://github.com/williamseben818-ux/williamseben818-ux/actions/workflows/profile-updates.yml/badge.svg)
+
 **Always learning, always securing.**
 
 ---
