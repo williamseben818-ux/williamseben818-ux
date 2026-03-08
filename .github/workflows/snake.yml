@@ -1,23 +1,13 @@
-name: Seasonal Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch:       # allows manual trigger
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-     name: Generate Snake
+name: Generate Snake
 
 on:
   push:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    # Runs daily at 00:00 Lagos time (23:00 UTC)
+    - cron: "0 23 * * *"
 
 jobs:
   build:
