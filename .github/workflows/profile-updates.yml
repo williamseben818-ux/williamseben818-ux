@@ -1,0 +1,70 @@
+name: Daily Profile Updates
+
+on:
+  schedule:
+    - cron: "0 23 * * *"   # Runs daily at 00:00 Lagos time (23:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+
+      # 🐍 Generate Snake Animation
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: williamseben818-ux
+          outputs: output/snake.svg
+          snake_color: "#00FFFF,#9400D3,#39FF14,#FF00FF"
+          background: "#0A0F24"
+          speed: 4
+
+      # ✍️ Generate Quote of the Day
+      - name: Generate Quote
+        run: |
+          quotes=("Knowledge is the best defense."
+                  "Security is a journey, not a destination."
+                  "Defense in depth, knowledge in breadth."
+                  "Hackers never sleep, so neither should vigilance."
+                  "Learning today secures tomorrow."
+                  "Every log tells a story — read it well."
+                  "Threats evolve, so must defenders."
+                  "The strongest firewall is human awareness."
+                  "Bug bounty is curiosity turned into defense."
+                  "SOC analysts are the guardians of the digital realm."
+                  "Detection is protection — prevention is perfection."
+                  "Cybersecurity is not a tool, it’s a mindset."
+                  "Every exploit teaches, every patch strengthens."
+                  "In security, complacency is the biggest vulnerability."
+                  "Data is gold — protect it like treasure."
+                  "The best hackers are the best learners."
+                  "Logs don’t lie — they whisper the truth."
+                  "Cyber defense is a marathon, not a sprint."
+                  "Every click matters — awareness saves systems."
+                  "Security is everyone’s responsibility, every day.")
+          RANDOM_QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}
+          if [ -z "$RANDOM_QUOTE" ]; then
+            RANDOM_QUOTE="Always learning, always securing."
+          fi
+          echo "QUOTE=$RANDOM_QUOTE" >> $GITHUB_ENV
+
+      - name: Update Quote in README
+        run: |
+          sed -i "s|> .*|> \"${QUOTE}\"|" README.md
+
+      # ⏰ Update Last Updated Timestamp
+      - name: Update Timestamp
+        run: |
+          DATE=$(date +"%Y-%m-%d %H:%M UTC")
+          sed -i "s|Last Updated:.*|Last Updated: ${DATE}|" README.md
+
+      # ✅ Commit and Push Changes
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md output/snake.svg'
+          message: "Daily profile update: snake, quote, timestamp"
