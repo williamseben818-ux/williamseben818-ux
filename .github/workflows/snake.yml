@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      name: Generate Snake
+     name: Generate Snake
 
 on:
   push:
@@ -56,3 +56,9 @@ jobs:
           snake_color: "#FF8C00,#000000,#800080"
           background: "output/halloween-bg.svg"
           speed: 4
+
+      - name: Commit and Push Snake SVGs
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'output/*.svg'
+          message: 'Update snake animations'
