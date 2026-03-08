@@ -63,13 +63,4 @@ Always learning, always securing
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## 🐍 Contribution Snake
-### 🎂 Birthday Snake (December 19)
-### 🐍 Snake Animations
-- Birthday Snake  
-  ![Birthday Snake](output/snake-birthday.svg)
-
-- Christmas Snake  
-  ![Christmas Snake](output/snake-christmas.svg)
-
-- Halloween Snake  
-  ![Halloween Snake](output/snake-halloween.svg)
+![Contribution Snake](output/snake.svg)
