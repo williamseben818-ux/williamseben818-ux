@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Cybersecurity is not a tool, it’s a mindset."
+> "Security is everyone’s responsibility, every day."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-03-21 23:50 UTC
+Last Updated: 2026-03-22 23:55 UTC
