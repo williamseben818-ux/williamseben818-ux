@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Every log tells a story — read it well."
+> "Cyber defense is a marathon, not a sprint."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-04-12 23:33 UTC
+Last Updated: 2026-04-13 23:40 UTC
