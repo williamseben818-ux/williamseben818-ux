@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Knowledge is the best defense."
+> "The best hackers are the best learners."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-02 23:40 UTC
+Last Updated: 2026-05-03 23:42 UTC
