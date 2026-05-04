@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "The best hackers are the best learners."
+> "Cyber defense is a marathon, not a sprint."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-03 23:42 UTC
+Last Updated: 2026-05-04 23:52 UTC
