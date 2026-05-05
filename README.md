@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Cyber defense is a marathon, not a sprint."
+> "Security is everyone’s responsibility, every day."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-04 23:52 UTC
+Last Updated: 2026-05-05 23:45 UTC
