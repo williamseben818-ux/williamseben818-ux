@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Security is everyone’s responsibility, every day."
+> "Bug bounty is curiosity turned into defense."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-05 23:45 UTC
+Last Updated: 2026-05-06 23:50 UTC
