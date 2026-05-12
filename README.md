@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Every click matters — awareness saves systems."
+> "In security, complacency is the biggest vulnerability."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-11 23:56 UTC
+Last Updated: 2026-05-12 23:58 UTC
