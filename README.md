@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "In security, complacency is the biggest vulnerability."
+> "Threats evolve, so must defenders."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-12 23:58 UTC
+Last Updated: 2026-05-13 23:55 UTC
