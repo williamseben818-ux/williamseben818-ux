@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Threats evolve, so must defenders."
+> "Security is everyone’s responsibility, every day."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-13 23:55 UTC
+Last Updated: 2026-05-14 23:56 UTC
