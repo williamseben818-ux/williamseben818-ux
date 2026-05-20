@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Security is everyone’s responsibility, every day."
+> "Security is a journey, not a destination."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-05-19 00:03 UTC
+Last Updated: 2026-05-20 00:03 UTC
