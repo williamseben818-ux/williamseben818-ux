@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Threats evolve, so must defenders."
+> "Every click matters — awareness saves systems."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-02 00:12 UTC
+Last Updated: 2026-06-03 00:25 UTC
