@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Learning today secures tomorrow."
+> "Defense in depth, knowledge in breadth."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-06 00:04 UTC
+Last Updated: 2026-06-07 00:02 UTC
