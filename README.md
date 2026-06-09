@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Data is gold — protect it like treasure."
+> "Cyber defense is a marathon, not a sprint."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-08 00:04 UTC
+Last Updated: 2026-06-09 00:03 UTC
