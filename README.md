@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Cyber defense is a marathon, not a sprint."
+> "Every exploit teaches, every patch strengthens."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-09 00:03 UTC
+Last Updated: 2026-06-10 00:11 UTC
