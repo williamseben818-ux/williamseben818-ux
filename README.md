@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Every exploit teaches, every patch strengthens."
+> "Detection is protection — prevention is perfection."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-10 00:11 UTC
+Last Updated: 2026-06-11 00:12 UTC
