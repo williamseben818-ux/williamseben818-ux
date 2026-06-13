@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Logs don’t lie — they whisper the truth."
+> "Cybersecurity is not a tool, it’s a mindset."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-12 00:17 UTC
+Last Updated: 2026-06-13 00:18 UTC
