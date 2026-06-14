@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Cybersecurity is not a tool, it’s a mindset."
+> "Detection is protection — prevention is perfection."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-13 00:18 UTC
+Last Updated: 2026-06-14 00:04 UTC
