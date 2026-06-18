@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Knowledge is the best defense."
+> "SOC analysts are the guardians of the digital realm."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-17 00:14 UTC
+Last Updated: 2026-06-18 00:14 UTC
