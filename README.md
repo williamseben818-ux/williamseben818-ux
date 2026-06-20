@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "The strongest firewall is human awareness."
+> "Security is everyone’s responsibility, every day."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-19 00:24 UTC
+Last Updated: 2026-06-20 00:07 UTC
