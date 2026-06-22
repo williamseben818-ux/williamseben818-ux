@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Defense in depth, knowledge in breadth."
+> "The best hackers are the best learners."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-21 00:04 UTC
+Last Updated: 2026-06-22 00:09 UTC
