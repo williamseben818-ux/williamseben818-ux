@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Detection is protection — prevention is perfection."
+> "Defense in depth, knowledge in breadth."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-25 00:09 UTC
+Last Updated: 2026-06-26 00:06 UTC
