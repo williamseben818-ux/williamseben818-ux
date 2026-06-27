@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Defense in depth, knowledge in breadth."
+> "Every log tells a story — read it well."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-26 00:06 UTC
+Last Updated: 2026-06-27 00:04 UTC
