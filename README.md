@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Security is everyone’s responsibility, every day."
+> "Detection is protection — prevention is perfection."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-06-29 00:06 UTC
+Last Updated: 2026-06-30 00:02 UTC
