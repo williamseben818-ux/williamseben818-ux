@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Knowledge is the best defense."
+> "Security is everyone’s responsibility, every day."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-07-02 00:04 UTC
+Last Updated: 2026-07-03 00:03 UTC
