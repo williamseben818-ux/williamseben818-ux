@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "The strongest firewall is human awareness."
+> "Defense in depth, knowledge in breadth."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-07-06 00:03 UTC
+Last Updated: 2026-07-07 00:06 UTC
