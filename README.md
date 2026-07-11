@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Security is a journey, not a destination."
+> "Cyber defense is a marathon, not a sprint."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-07-10 23:55 UTC
+Last Updated: 2026-07-11 23:52 UTC
