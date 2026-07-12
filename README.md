@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Cyber defense is a marathon, not a sprint."
+> "Knowledge is the best defense."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-07-11 23:52 UTC
+Last Updated: 2026-07-12 23:51 UTC
