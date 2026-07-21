@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Bug bounty is curiosity turned into defense."
+> "Cyber defense is a marathon, not a sprint."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-07-20 23:54 UTC
+Last Updated: 2026-07-21 23:54 UTC
