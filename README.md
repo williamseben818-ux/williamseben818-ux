@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Security is everyone’s responsibility, every day."
+> "Defense in depth, knowledge in breadth."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-08-07 23:30 UTC
+Last Updated: 2026-08-08 23:25 UTC
