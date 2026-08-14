@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Bug bounty is curiosity turned into defense."
+> "Detection is protection — prevention is perfection."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-08-13 23:38 UTC
+Last Updated: 2026-08-14 23:18 UTC
