@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Knowledge is the best defense."
+> "Every exploit teaches, every patch strengthens."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-08-21 23:20 UTC
+Last Updated: 2026-08-22 23:18 UTC
