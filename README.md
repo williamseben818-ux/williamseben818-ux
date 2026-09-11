@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Defense in depth, knowledge in breadth."
+> "Bug bounty is curiosity turned into defense."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-09-10 00:49 UTC
+Last Updated: 2026-09-11 00:48 UTC
