@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Threats evolve, so must defenders."
+> "Defense in depth, knowledge in breadth."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-10-07 02:04 UTC
+Last Updated: 2026-10-08 02:29 UTC
