@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Bug bounty is curiosity turned into defense."
+> "In security, complacency is the biggest vulnerability."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-10-19 00:47 UTC
+Last Updated: 2026-10-20 01:34 UTC
