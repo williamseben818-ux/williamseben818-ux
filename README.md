@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Cyber defense is a marathon, not a sprint."
+> "Defense in depth, knowledge in breadth."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-10-23 01:11 UTC
+Last Updated: 2026-10-24 01:20 UTC
