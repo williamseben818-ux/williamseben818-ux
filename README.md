@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Security is a journey, not a destination."
+> "Cybersecurity is not a tool, it’s a mindset."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-10-25 00:48 UTC
+Last Updated: 2026-10-26 00:58 UTC
