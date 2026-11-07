@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Learning today secures tomorrow."
+> "Cyber defense is a marathon, not a sprint."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-11-06 03:08 UTC
+Last Updated: 2026-11-07 02:31 UTC
