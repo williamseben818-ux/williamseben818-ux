@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "In security, complacency is the biggest vulnerability."
+> "Every log tells a story — read it well."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-11-13 03:07 UTC
+Last Updated: 2026-11-14 02:53 UTC
