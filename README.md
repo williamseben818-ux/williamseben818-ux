@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "In security, complacency is the biggest vulnerability."
+> "Knowledge is the best defense."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-11-16 02:32 UTC
+Last Updated: 2026-11-17 04:56 UTC
