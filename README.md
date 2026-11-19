@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "The best hackers are the best learners."
+> "Cybersecurity is not a tool, it’s a mindset."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-11-18 04:00 UTC
+Last Updated: 2026-11-19 03:57 UTC
