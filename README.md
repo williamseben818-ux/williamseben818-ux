@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Cybersecurity is not a tool, it’s a mindset."
+> "SOC analysts are the guardians of the digital realm."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-11-19 03:57 UTC
+Last Updated: 2026-11-20 03:51 UTC
