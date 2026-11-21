@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "SOC analysts are the guardians of the digital realm."
+> "Security is everyone’s responsibility, every day."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-11-20 03:51 UTC
+Last Updated: 2026-11-21 03:44 UTC
