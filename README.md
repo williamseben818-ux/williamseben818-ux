@@ -63,7 +63,7 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Bug bounty is curiosity turned into defense."
+> "Cybersecurity is not a tool, it’s a mindset."
 
 ---
 
@@ -73,4 +73,4 @@
 ---
 
 ## ⏰ Last Updated
-Last Updated: 2026-11-22 02:47 UTC
+Last Updated: 2026-11-23 03:29 UTC
